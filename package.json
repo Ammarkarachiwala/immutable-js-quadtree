@@ -1,0 +1,26 @@
+{
+  "name": "immutable-js-quadtree",
+  "version": "1.0.0",
+  "description": "An immutable quad tree using immutable js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ammarkarachiwala/immutable-js-quadtree.git"
+  },
+  "keywords": [
+    "immutable",
+    "quadtree"
+  ],
+  "author": "Ammar Karachiwala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ammarkarachiwala/immutable-js-quadtree/issues"
+  },
+  "homepage": "https://github.com/Ammarkarachiwala/immutable-js-quadtree#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  }
+}
